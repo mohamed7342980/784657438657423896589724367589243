@@ -1,1 +1,3 @@
-# 784657438657423896589724367589243
+# Elenore
+Elenore - Multi-use Discord Bot.
+
