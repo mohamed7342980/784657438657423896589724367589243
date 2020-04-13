@@ -1,7 +1,7 @@
 ﻿const Discord = require('discord.js')
 const client = new Discord.Client();
 // توكن البوت
-var token = "NTM3OTEyNzM3NTQ4ODYxNDQx.XpSw9Q.-c1x6JCAbVW1HK-iPv1z3gguWT4";
+var token = "NTM3OTEyNzM3NTQ4ODYxNDQx.XpS1ag.fzqoM0WumKKyyddCywNipWu3m3s";
 // الاختصار المستخدم في الاوامر
 var prefix = "$";
  // نشاط البوت
